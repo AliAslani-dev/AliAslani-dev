@@ -1,26 +1,24 @@
 export default defineAppConfig({
   global: {
-    meetingLink: 'https://cal.com/hugorcd/15min',
+    meetingLink: 'https://cal.com/aliaslani/15min', // اگر لینک شخصی داری اینو عوض کن
     available: true,
   },
   profile: {
-    name: 'Hugo Richard',
-    job: 'Frontend Architect and Designer',
-    email: 'contact@hrcd.fr',
-    phone: '(+33) 6 21 56 22 18',
-    picture: 'https://avatars.githubusercontent.com/u/71938701?v=4',
+    name: 'Ali Aslani',
+    job: 'Full-stack Developer',
+    email: 'contact@aliaslani.com', // ایمیل خودتو بزار
+    phone: '09140336422', // شماره خودتو بزار
+    picture: '/profile/photo_2025-07-26_16-23-07.jpg', // آدرس عکس پروفایلت، می‌تونی لینک یا مسیر پروژه بذاری
   },
   socials: {
-    github: 'https://github.com/HugoRCD',
-    twitter: 'https://twitter.com/HugoRCD__',
-    linkedin: 'https://www.linkedin.com/in/hugo-richard-0801',
-    instagram: 'https://www.instagram.com/hugo.rcd_',
-    spotify: 'https://open.spotify.com/user/yuvl0zpp3bpx4hne1ag7huten?si=df7ee2777c0c4fc4',
+    github: 'https://github.com/aliaslani', // لینک گیت‌هابت
+    linkedin: 'https://linkedin.com/in/aliaslani', // لینکدینت
+    instagram: 'https://instagram.com/aliaslani', // اگر داری
   },
   seo: {
-    title: 'Canvas a Nuxt portfolio template',
-    description: 'Canvas is a simple but beautiful portfolio template for designers and developers built with Nuxt and Tailwind CSS. Made with ❤️ by HugoRCD',
-    url: 'https://canvas.hrcd.fr',
+    title: 'Ali Aslani - Full-stack Developer Portfolio',
+    description: 'Portfolio of Ali Aslani, a skilled full-stack developer delivering reliable and user-friendly web solutions.',
+    url: 'https://yourdomain.com', // آدرس سایتت
   },
   ui: {
     colors: {

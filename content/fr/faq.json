@@ -1,51 +1,48 @@
 {
-  "title": "FAQ",
-  "subtitle": "Questions qu'on me pose souvent",
+  "title": "سؤالات متداول",
+  "subtitle": "سؤالاتی که معمولاً از من پرسیده می‌شود",
   "faqQuestions": [
     {
-      "title": "Services",
+      "title": "خدمات",
       "questions": [
         {
-          "label": "Quels services je propose?",
-          "content": "Je propose principalement des services de développement web et mobile, mais aussi de design et de consulting web. Mon objectif est de vous aider à créer des produits de qualité, qui répondent à vos besoins et à ceux de vos utilisateurs."
+          "label": "چه خدماتی ارائه می‌کنم؟",
+          "content": "من توسعه‌دهنده وب و موبایل هستم و در هر دو بخش فرانت‌اند و بک‌اند فعالیت می‌کنم. در فرانت‌اند با ری‌اکت، ری‌اکت نیتیو و ویو جی‌اس تجربه دارم و در بک‌اند از نود جی‌اس برای ساخت سرویس‌های پایدار و قابل توسعه استفاده می‌کنم.همچنین می‌توانم در زمینه طراحی معماری نرم‌افزار، انتخاب ابزارهای مناسب و مشاوره فنی به شما کمک کنم."
+
         },
         {
-          "label": "Peux-tu m'aider à apprendre à faire un site web?",
-          "content": "Je ne propose pas de cours pour le moment, mais je peux vous recommander des ressources et conseils pour vous orienter au mieux dans votre apprentissage."
+          "label": "می‌توانی به من یاد بدهی چگونه یک وب‌سایت بسازم؟",
+          "content": "در حال حاضر دوره آموزشی برگزار نمی‌کنم، اما خوشحال می‌شوم منابع و مسیرهای یادگیری خوبی به شما معرفی کنم تا سریع‌تر پیشرفت کنید."
         }
       ]
     },
     {
-      "title": "Tarification",
+      "title": "هزینه‌ها",
       "questions": [
         {
-          "label": "Combien coûte un projet?",
-          "content": "Le coût d'un projet dépend de nombreux facteurs, tels que la taille du projet, les fonctionnalités, le temps de développement, etc. Le montant initial de mes services web commence à 2000€, avec une moyenne comprise entre 3000€ et 10000€. Pour tout autre service de design ou de consulting, je facture généralement 450€ par jour."
+          "label": "هزینه یک پروژه چقدر است؟",
+          "content": "هزینه هر پروژه به عوامل مختلفی مثل نوع و حجم کار بستگی دارد. برای برآورد دقیق‌تر، می‌توانید از طریق ایمیل یا فرم تماس، با من در ارتباط باشید تا با هم جزئیات پروژه‌تان را بررسی کنیم."
         },
         {
-          "label": "Comment fonctionne le paiement pour un projet?",
-          "content": "Je demande un acompte de 40% avant de commencer un projet, et les 60% restants après une livraison réussie. J'accepte les paiements par virement bancaire, PayPal, etc..."
+          "label": "پرداخت پروژه چگونه انجام می‌شود؟",
+          "content": "شرایط پرداخت بعد از بررسی پروژه و توافق با شما مشخص می‌شود. برای شروع همکاری، کافی است از طریق ایمیل یا بخش تماس سایت، با من در ارتباط باشید."
         },
         {
-          "label": "Combien de temps dure un projet?",
-          "content": "Il est difficile de donner une estimation précise, car chaque projet est différent, mais la majorité de mes travaux passés ont pris entre 2 semaines et 2 mois."
-        },
-        {
-          "label": "Est-ce que je propose des réductions?",
-          "content": "J'offre une réduction de 15% pour les étudiants et les organisations à but non lucratif."
+          "label": "مدت زمان انجام یک پروژه چقدر است؟",
+          "content": "مدت زمان تحویل به پیچیدگی پروژه بستگی دارد. معمولاً پروژه‌ها چند هفته تا چند ماه زمان می‌برند، اما بعد از بررسی ایده و نیازهای شما، می‌توانم زمان دقیق‌تری اعلام کنم."
         }
       ]
     },
     {
-      "title": "Personnel",
+      "title": "شخصی",
       "questions": [
         {
-          "label": "Qu'est-ce que tu préfères dans ce travail?",
-          "content": "J'adore apprendre de nouvelles choses et pouvoir créer à peu près tout à partir de rien, créer de belles choses que les gens utiliseront et apprécieront."
+          "label": "بیشتر چه چیزی را در این کار دوست داری؟",
+          "content": "من عاشق یادگیری چیزهای جدید هستم و اینکه بتونم ایده‌ها رو به محصولاتی واقعی تبدیل کنم که مردم ازشون استفاده کنند و لذت ببرند."
         },
         {
-          "label": "Des passions en dehors du travail?",
-          "content": "J'adore ce que je fais, donc je passe généralement beaucoup de temps à travailler sur des projets personnels, la photographie, etc. Je suis aussi un grand accro au sport. Je vais souvent à la salle de sport et j'ai récemment commencé l'escalade !"
+          "label": "علاقه‌مندی‌هایت خارج از کار چیست؟",
+          "content": "وقتی کدنویسی نمی‌کنم، بیشتر وقتم رو به پروژه‌های شخصی، یادگیری مهارت‌های جدید و کمی هم ورزش می‌گذرونم."
         }
       ]
     }

@@ -1,11 +1,12 @@
 @import "tailwindcss";
 @import "@nuxt/ui";
-
+@import "../fonts/vazir.css";
 @import "./animation.css";
 
 @theme {
   --font-newsreader: "Newsreader", serif;
   --font-geist: "Geist", sans-serif;
+  --font-vazir: "Vazir", sans-serif;
   --font-mono: "Geist Mono", sans-serif;
 
   --color-main: var(--ui-bg);
@@ -38,7 +39,10 @@ html.dark {
   --font-placeholder: #707070;
 }
 
-html, body, #__nuxt, #__layout {
+html,
+body,
+#__nuxt,
+#__layout {
   height: 100% !important;
   width: 100% !important;
 
@@ -58,6 +62,8 @@ html, body, #__nuxt, #__layout {
 }
 
 @layer components {
+
+
   .linebreak {
     position: relative;
     left: 0;
@@ -118,7 +124,8 @@ html, body, #__nuxt, #__layout {
     @apply text-neutral-900 dark:text-neutral-100 font-[500];
   }
 
-  ul, ol {
+  ul,
+  ol {
     @apply mb-4 mt-4 pl-6;
   }
 
@@ -144,5 +151,15 @@ html, body, #__nuxt, #__layout {
 
   figcaption {
     @apply text-sm text-neutral-500 dark:text-neutral-400 mt-2;
+  }
+}
+
+:root {
+  --ui-font-family: 'Vazir', sans-serif !important;
+}
+
+@layer base {
+  .font-geist {
+    font-family: 'Vazir', sans-serif !important;
   }
 }

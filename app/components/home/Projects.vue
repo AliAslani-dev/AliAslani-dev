@@ -22,10 +22,7 @@ const { data: projects } = await useAsyncData('projects', async () => {
         v-for="project in projects?.filter((work) => work.featured)"
         :key="project.name"
         role="link"
-        class="flex cursor-pointer items-center gap-2 rounded-lg px-4 py-2 hover:bg-neutral-900"
-        :to="project.release === 'soon' ? localePath('/') : project.link"
-        :aria-label="'go to ' + project.name + ' project website'"
-        :target="project.release === 'soon' ? '_self' : '_blank'"
+        class="flex  items-center gap-2 rounded-lg px-4 py-2 hover:bg-neutral-900"
       >
         <span class="whitespace-nowrap font-medium">
           {{ project.name }}
