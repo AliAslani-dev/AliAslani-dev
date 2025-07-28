@@ -1,49 +1,72 @@
 ---
-title: Fini ton portfolio !
-date: 20/10/2023
-description: Viser le perfectionnisme est un très bon état d'esprit. D'un autre
-  côté, travailler jusqu'à ce que le perfectionnisme soit à 100 % peut aussi
-  être mauvais. Voici quelques conseils pour vous aider à lancer votre
-  portfolio.
+title: چطور با استفاده از هوش مصنوعی سرعت کدنویسی خود را ۳ برابر کنیم؟ (راهنمای ۲۰۲۵)
+date: 2025-04-15T08:00:00.000Z
+description: "در چند سال اخیر، هوش مصنوعی (AI) به سرعت در حال تغییر دنیای توسعه
+  نرم‌افزار است. از تولید خودکار کد گرفته تا پیدا کردن باگ‌ها و حتی ارائه
+  پیشنهادات بهینه‌سازی، ابزارهای مبتنی بر هوش مصنوعی به یکی از مهم‌ترین یاران
+  برنامه‌نویسان تبدیل شده‌اند. حالا سؤال اصلی اینجاست: چطور می‌توانیم با کمک AI
+  سرعت و کیفیت کدنویسی خود را چند برابر کنیم؟"
 tags:
-  - Portfolio
-  - Développement
-  - Design
-  - Productivité
+  - هوش مصنوعی
+  - برنامه‌نویسی با هوش مصنوعی
+  - افزایش سرعت کدنویسی
+  - ابزارهای هوش مصنوعی برای برنامه‌نویسان
+  - یادگیری ماشین و برنامه‌نویسی
+  - آینده برنامه‌نویسی
+  - هوش مصنوعی در توسعه نرم‌افزار
+  - GitHub Copilot
+  - AI در کدنویسی
+  - ابزارهای برنامه‌نویسی ۲۰۲۵
 image: https://canvas.hrcd.fr/articles/launch-your-porfolio.jpg
 readingTime: "5"
 ---
 
-## Introduction
+### **مقدمه: انقلاب هوش مصنوعی در دنیای برنامه‌نویسی**
 
-La création d'un portfolio en tant que professionnel du développement, du design ou de la tech est un voyage ponctué de choix complexes. L'un de ces dilemmes les plus prégnants réside dans le délicat équilibre entre l'aspiration à la perfection et la nécessité de lancer rapidement. Explorez avec moi les nuances de ces perspectives contradictoires.
+در چند سال اخیر، هوش مصنوعی (AI) به سرعت در حال تغییر دنیای توسعه نرم‌افزار است. از تولید خودکار کد گرفته تا پیدا کردن باگ‌ها و حتی ارائه پیشنهادات بهینه‌سازی، ابزارهای مبتنی بر هوش مصنوعی به یکی از مهم‌ترین یاران برنامه‌نویسان تبدیل شده‌اند. حالا سؤال اصلی اینجاست: **چطور می‌توانیم با کمک AI سرعت و کیفیت کدنویسی خود را چند برابر کنیم؟**
 
-![preview](/articles/launch-your-porfolio.jpg)
+### **هوش مصنوعی چگونه کدنویسی را متحول کرده است؟**
 
-### L'aspiration à la perfection : un idéal inatteignable ?
+هوش مصنوعی دیگر فقط یک ترند نیست؛ بلکه ابزاری حیاتی برای توسعه‌دهندگان شده است. این فناوری در زمینه‌های زیر بیشترین تأثیر را گذاشته:
 
-La vision traditionnelle de la création artistique nous incite à poursuivre la perfection dès le départ. Chaque ligne de code, chaque élément de design devrait converger vers l'excellence absolue. Cependant, ce rêve de perfection peut parfois devenir un fardeau, un frein au progrès. La quête incessante de la perfection peut paralyser le processus créatif, transformant la création en une poursuite infinie.
+- **تولید کد خودکار**: نوشتن بخش‌های تکراری کد بدون دخالت کامل برنامه‌نویس.
+- **یافتن و رفع باگ‌ها**: شناسایی سریع خطاها قبل از اجرا.
+- **بهینه‌سازی کد**: پیشنهاد راهکارهای بهتر و سریع‌تر برای اجرای کد.
+- **یادگیری سریع‌تر**: کمک به برنامه‌نویسان تازه‌کار برای فهم بهتر زبان‌ها و فریم‌ورک‌ها.
 
-### Le Piège du perfectionnisme : quand le mieux devient l'ennemi du bien
+### **ابزارهای برتر هوش مصنوعی برای برنامه‌نویسان در ۲۰۲۵**
 
-Le perfectionnisme peut se transformer en un piège subtil. Attendre que chaque détail soit impeccable peut retarder indéfiniment la mise en ligne du portfolio. Ce piétinement prolongé peut avoir des implications sur la crédibilité professionnelle, car le marché exige souvent une présence en ligne rapide et dynamique.
+برای بهره‌گیری از حداکثر قدرت AI، این ابزارها بهترین گزینه‌ها هستند:
 
-### La proposition audacieuse de lancer rapidement : itérer plutôt que parfaire
+### **۱. GitHub Copilot**
 
-L'idée de lancer rapidement, même si le portfolio n'atteint pas un niveau de perfection immédiat, offre une perspective alternative. Il s'agit de reconnaître que chaque itération peut être une amélioration par rapport à la précédente. Cette approche encourage une mentalité d'itération constante, où chaque version devient une opportunité d'apprentissage.
+دستیار هوشمند شما برای تکمیل خودکار کد، تولید توابع و حتی نوشتن تست‌ها.
 
-### Rapidité comme moyen d'apprentissage : créer en faisant
+### **۲. Tabnine**
 
-Lancer rapidement devient ainsi un moyen d'apprentissage. La rapidité n'est pas synonyme de compromis sur la qualité, mais plutôt d'une acceptation que la perfection peut être inatteignable initialement. C'est une invitation à apprendre en faisant, à utiliser chaque version du portfolio comme un terrain d'expérimentation.
+ابزاری سبک و سریع برای پیشنهاد کد در اکثر ویرایشگرهای محبوب.
 
-### L'importance cruciale du temps : efficacité temporelle et gestion judicieuse
+### **۳. Cursor AI**
 
-Le temps joue un rôle crucial dans ce débat. L'efficacité temporelle, soulignée par la perspective de la rapidité, devient une compétence essentielle. La gestion judicieuse du temps est la clé pour maintenir l'élan sans compromettre la qualité. Choisir consciemment où investir son temps devient un acte stratégique.
+یک IDE هوشمند که می‌تواند کل بخش‌های پروژه را برای شما بازنویسی و بهینه‌سازی کند.
 
-### Contrôle total vs. flexibilité : naviguer entre les deux extrêmes
+### **۴. ChatGPT (OpenAI)**
 
-Contrôler entièrement le processus de création offre un sentiment d'autonomie et d'empowerment. Cependant, il est vital de ne pas confondre contrôle avec rigidité. Être ouvert aux évolutions du marché et aux nouvelles tendances est tout aussi essentiel que le contrôle personnel. C'est un équilibre délicat entre autonomie et adaptabilité.
+نه فقط برای تولید متن؛ بلکه برای دیباگ، تولید نمونه کد و یادگیری سریع تکنولوژی‌های جدید.
 
-### L'équilibre délicat : un voyage continu de découverte et d'adaptation
+## **چطور با این ابزارها سریع‌تر کدنویسی کنیم؟**
 
-En fin de compte, la création du portfolio est un voyage continu. C'est naviguer dans ce paradoxe avec intention. C'est trouver un équilibre entre la quête de l'excellence et la nécessité d'agir rapidement, sachant que chaque itération est une progression vers une version améliorée de soi-même. Créer un portfolio, c'est embrasser le paradoxe, c'est choisir consciemment entre perfection et rapidité, et c'est accepter que le chemin vers l'excellence est un voyage plutôt qu'une destination.
+- **از AI برای کارهای تکراری استفاده کنید:** مثل ساخت مدل‌های اولیه، توابع پایه و تست‌ها.
+- **AI را به‌عنوان همکار، نه جایگزین ببینید:** شما باید کنترل پروژه را در دست داشته باشید.
+- **پروژه‌هایتان را به بخش‌های کوچک تقسیم کنید:** و از AI بخواهید هر بخش را بهینه کند.
+- **با دستورهای دقیق کار کنید:** هرچه پرامپت واضح‌تر باشد، خروجی بهتر می‌شود.
+
+## **چه چیزهایی را نباید به AI بسپاریم؟**
+
+- **تصمیم‌گیری‌های معماری پروژه:** این وظیفه‌ی شماست.
+- **مدیریت امنیت و داده‌های حساس:** AI می‌تواند پیشنهاد دهد اما شما باید تصمیم‌گیرنده باشید.
+- **درک کامل نیازهای کاربر:** هنوز این بخش انسانی و خلاق باقی می‌ماند.
+
+## **جمع‌بندی: آینده برنامه‌نویسی و نقش AI**
+
+هوش مصنوعی نه‌تنها سرعت کدنویسی را افزایش می‌دهد، بلکه فرصت یادگیری و خلاقیت بیشتری به برنامه‌نویسان می‌دهد. در سال ۲۰۲۵، برنامه‌نویسانی که استفاده از این ابزارها را بلد باشند، از بقیه یک قدم جلوتر خواهند بود. **آینده برنامه‌نویسی، همکاری انسان و هوش مصنوعی است.**
