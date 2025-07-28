@@ -1,20 +1,20 @@
 {
-  "title": "Contactez moi",
-  "description" : "Discutons de votre idée, projet ou de tout autre chose !",
-  "fullname": "Nom complet",
-  "email": "Email",
-  "phone": "Téléphone",
-  "subject": "Sujet de votre message",
-  "message": "Message",
-  "submit": "Envoyer",
-  "disabled": "Vous devez définir votre clé d'API resend",
-  "success": "Votre message a été envoyé avec succès",
-  "error": "Oups, une erreur s'est produite lors de l'envoi de votre message :(",
-  "budget": "Budget",
+  "title": "تماس با من",
+  "description": "بیایید در مورد ایده، پروژه یا هر چیز دیگری صحبت کنیم!",
+  "fullname": "نام و نام خانوادگی",
+  "email": "ایمیل",
+  "phone": "شماره تماس",
+  "subject": "موضوع پیام شما",
+  "message": "متن پیام",
+  "submit": "ارسال",
+  "disabled": "شما باید کلید API مربوط به Resend را تنظیم کنید",
+  "success": "پیام شما با موفقیت ارسال شد",
+  "error": "اوه! خطایی هنگام ارسال پیام رخ داد :(",
+  "budget": "بودجه",
   "subject_types": {
-    "project": "Parler d'un projet",
-    "bug": "Signaler un bug",
-    "question": "Poser une question",
-    "other": "Autre"
+    "project": "گفتگو درباره یک پروژه",
+    "bug": "گزارش یک خطا",
+    "question": "پرسیدن یک سؤال",
+    "other": "سایر موارد"
   }
 }
