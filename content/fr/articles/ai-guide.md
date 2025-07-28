@@ -17,7 +17,7 @@ tags:
   - GitHub Copilot
   - AI در کدنویسی
   - ابزارهای برنامه‌نویسی ۲۰۲۵
-image: https://canvas.hrcd.fr/articles/launch-your-porfolio.jpg
+image: /articles/developer-8764523-1.jpg
 readingTime: "5"
 ---
 
