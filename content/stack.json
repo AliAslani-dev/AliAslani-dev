@@ -11,6 +11,11 @@
       "icon": "custom:vue"
     },
     {
+      "name": "Express",
+      "link": "https://expressjs.com/",
+      "icon": "custom:Express"
+    },
+    {
       "name": "Nest",
       "link": "https://nestjs.com/",
       "icon": "custom:nest"
