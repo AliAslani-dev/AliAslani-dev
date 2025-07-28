@@ -84,11 +84,6 @@
       "name": "Illustrator",
       "link": "https://www.adobe.com/products/illustrator.html",
       "icon": "custom:illustrator"
-    },
-    {
-      "name": "Lightroom",
-      "link": "https://www.adobe.com/products/photoshop-lightroom.html",
-      "icon": "custom:lightroom"
     }
   ]
 }
