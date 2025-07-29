@@ -18,7 +18,7 @@ export default defineAppConfig({
   seo: {
     title: 'Ali Aslani - Full-stack Developer Portfolio',
     description: 'Portfolio of Ali Aslani, a skilled full-stack developer delivering reliable and user-friendly web solutions.',
-    url: 'https://yourdomain.com', // آدرس سایتت
+    url: 'https://portfolio-production-67bf.up.railway.app', // آدرس سایتت
   },
   ui: {
     colors: {
