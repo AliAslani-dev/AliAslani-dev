@@ -14,9 +14,7 @@ const { data: projects } = await useAsyncData('projects', async () => {
 
 <template>
   <div class="flex w-full flex-col gap-6">
-    <h3 class="font-newsreader italic text-white-shadow text-xl">
-      {{ $t("navigation.works") }}
-    </h3>
+    
     <div class="flex w-full flex-col gap-4">
       <NuxtLink
         v-for="project in projects?.filter((work) => work.featured)"
