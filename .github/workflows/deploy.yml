@@ -1,5 +1,8 @@
 name: Deploy Nuxt 3 to GitHub Pages
 
+permissions:
+  contents: write   # allow pushing to gh-pages branch
+
 on:
   push:
     branches:
@@ -17,6 +20,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: 'npm'  # cache dependencies
 
       - name: Install dependencies
         run: npm install
