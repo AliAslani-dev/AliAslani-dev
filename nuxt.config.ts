@@ -9,7 +9,9 @@ export default defineNuxtConfig({
     '@nuxt/scripts',
   ],
 
- 
+    app: {
+     baseURL: '/',  // replace with your actual repo name in lowercase
+  },
 
   imports: {
     presets: [
