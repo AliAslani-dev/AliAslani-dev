@@ -1,0 +1,1 @@
+import{y as e,x as n,c as t,d as o}from"./CXFvQsF1.js";const s={class:"flex gap-4 sm:gap-2"},_=e({__name:"MeetingButton",setup(a){return n().global.meetingLink,(c,p)=>(o(),t("div",s))}}),m=Object.assign(_,{__name:"MeetingButton"});export{m as _};
