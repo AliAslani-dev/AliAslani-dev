@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/aliaslani-dev/__sitemap__/style.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://canvas.hrcd.fr/aliaslani-dev</loc>
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/en" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/fa" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/fa" hreflang="fa-IR" />
+    </url>
+    <url>
+        <loc>https://canvas.hrcd.fr/aliaslani-dev/en</loc>
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/_ipx/s_150x150/profile/photo_2025-07-26_16-23-07.jpg</image:loc>
+        </image:image>
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/en" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/en" hreflang="fa-IR" />
+    </url>
+    <url>
+        <loc>https://canvas.hrcd.fr/aliaslani-dev/fa</loc>
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/en" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/fa" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/fa" hreflang="fa-IR" />
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/_ipx/s_150x150/profile/photo_2025-07-26_16-23-07.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://canvas.hrcd.fr/aliaslani-dev/en/about</loc>
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/_ipx/w_256/profile/photo_2025-07-26_16-23-07.jpg</image:loc>
+        </image:image>
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/en/about" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/en/about" hreflang="fa-IR" />
+    </url>
+    <url>
+        <loc>https://canvas.hrcd.fr/aliaslani-dev/en/contact</loc>
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/en/contact" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/en/contact" hreflang="fa-IR" />
+    </url>
+    <url>
+        <loc>https://canvas.hrcd.fr/aliaslani-dev/en/works</loc>
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/_ipx/_/projects/foolad.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/_ipx/_/projects/leadochat.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/_ipx/_/projects/unnamed%20(1).png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/_ipx/_/projects/novinplast.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/_ipx/_/projects/pichidi.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/_ipx/_/projects/tanjim.jpeg</image:loc>
+        </image:image>
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/en/works" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/en/works" hreflang="fa-IR" />
+    </url>
+    <url>
+        <loc>https://canvas.hrcd.fr/aliaslani-dev/en/writing</loc>
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/en/writing" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/en/writing" hreflang="fa-IR" />
+    </url>
+    <url>
+        <loc>https://canvas.hrcd.fr/aliaslani-dev/fa/about</loc>
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/en/about" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/fa/about" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/fa/about" hreflang="fa-IR" />
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/_ipx/w_256/profile/photo_2025-07-26_16-23-07.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://canvas.hrcd.fr/aliaslani-dev/fa/contact</loc>
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/en/contact" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/fa/contact" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/fa/contact" hreflang="fa-IR" />
+    </url>
+    <url>
+        <loc>https://canvas.hrcd.fr/aliaslani-dev/fa/works</loc>
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/en/works" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/fa/works" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/fa/works" hreflang="fa-IR" />
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/_ipx/_/projects/foolad.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/_ipx/_/projects/leadochat.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/_ipx/_/projects/unnamed%20(1).png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/_ipx/_/projects/novinplast.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/_ipx/_/projects/pichidi.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/_ipx/_/projects/tanjim.jpeg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://canvas.hrcd.fr/aliaslani-dev/fa/writing</loc>
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/en/writing" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/fa/writing" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/fa/writing" hreflang="fa-IR" />
+        <image:image>
+            <image:loc>https://canvas.hrcd.fr/_ipx/w_1536/articles/developer-8764523-1.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://canvas.hrcd.fr/aliaslani-dev/fa/articles/ai-guide</loc>
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/fa/articles/ai-guide" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://canvas.hrcd.fr/aliaslani-dev/fa/articles/ai-guide" hreflang="fa-IR" />
+    </url>
+</urlset>
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.3 at 2025-07-31T09:56:55.262Z -->
