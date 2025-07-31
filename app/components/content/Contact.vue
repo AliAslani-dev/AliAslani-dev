@@ -62,26 +62,26 @@ async function onSubmit(event: FormSubmitEvent<Schema>) {
         class="flex w-full max-w-[40rem] flex-col gap-3"
         @submit="onSubmit"
       >
-        <UFormField label="Fullname" name="fullname" required>
+        <UFormField :label="$t('contact.fullname')" name="fullname" required>
           <UInput
             v-model="state.fullname"
             type="text"
             autocomplete="name"
             class="w-full"
-            placeholder="John Doe"
+            :placeholder="$t('contact.fullname')"
           />
         </UFormField>
 
-        <UFormField label="Email" name="email" required>
+        <UFormField :label="$t('contact.email')" name="email" required>
           <UInput
             v-model="state.email"
             autocomplete="email"
             class="w-full"
-            placeholder="john.doe@gmail.com"
+            :placeholder="$t('contact.email')"
           />
         </UFormField>
 
-        <UFormField label="Phone" name="phone">
+        <UFormField :label="$t('contact.phone')" name="phone">
           <UInput
             v-model="state.phone"
             autocomplete="tel"
@@ -90,7 +90,7 @@ async function onSubmit(event: FormSubmitEvent<Schema>) {
           />
         </UFormField>
 
-        <UFormField label="Subject" name="subject" required>
+        <UFormField :label="$t('contact.subject')" name="subject" required>
           <UInput
             v-model="state.subject"
             class="w-full"
@@ -98,13 +98,13 @@ async function onSubmit(event: FormSubmitEvent<Schema>) {
           />
         </UFormField>
 
-        <UFormField label="Message" name="message" required>
+        <UFormField :label="$t('contact.message')" name="message" required>
           <UTextarea
             v-model="state.message"
             autoresize
             class="w-full"
             :rows="4"
-            placeholder="Lets work together!"
+            :placeholder="$t('contact.message')"
           />
         </UFormField>
         <div class="flex justify-center">
