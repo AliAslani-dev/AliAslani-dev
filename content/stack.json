@@ -50,5 +50,11 @@
       "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
       "icon": "custom:javascript"
     }
+    ,
+   {
+  "name": "Vite.js",
+  "link": "https://vitejs.dev/",
+  "icon": "custom:vitejs"
+}
   ]
 }
