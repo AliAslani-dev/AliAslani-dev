@@ -6,7 +6,7 @@ export default defineAppConfig({
   profile: {
     name: "Ali Aslani",
     job: "Full-stack Developer",
-    email: "contact@aliaslani.com",
+    email: "ali_aslaniii10@yahoo.com",
     phone: "09140336422",
     picture: "/profile/photo_2025-07-26_16-23-07.jpg",
   },
