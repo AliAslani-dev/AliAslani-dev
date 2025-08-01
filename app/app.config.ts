@@ -13,7 +13,7 @@ export default defineAppConfig({
   socials: {
     github: "https://github.com/AliAslani-dev",
     linkedin: "https://linkedin.com/in/aliaslani",
-    instagram: "https://instagram.com/aliaslani",
+    instagram: "https://instagram.com/ali___aslani___",
   },
   seo: {
     title: "Ali Aslani - Full-stack Developer Portfolio",
