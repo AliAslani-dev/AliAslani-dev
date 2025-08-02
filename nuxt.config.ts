@@ -26,7 +26,7 @@ export default defineNuxtConfig({
   css: ["~/assets/style/main.css"],
 
   site: {
-    url: "https://canvas.hrcd.fr",
+    url: "https://ali-aslani-dev.vercel.app",
     defaultLocale: "en",
     indexable: true,
   },
@@ -41,7 +41,7 @@ export default defineNuxtConfig({
       anchorLinks: false,
     },
     preview: {
-      api: "https://api.nuxt.studio",
+      api: "https://ali-aslani-dev.vercel.app",
       dev: true,
     },
   },
