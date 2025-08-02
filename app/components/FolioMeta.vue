@@ -2,7 +2,7 @@
 import type { ContentEnCollectionItem, ContentFrCollectionItem } from '@nuxt/content'
 
 useScriptPlausibleAnalytics({
-  domain: 'canvas.hrcd.fr',
+  domain: 'ali-aslani-dev.vercel.app',
   scriptInput: {
     src: 'https://analytics.hrcd.fr/js/script.js',
   },
@@ -16,9 +16,12 @@ const { page, isWriting } = defineProps<{
 const route = useRoute()
 const { link, seo, profile } = useAppConfig()
 
+const siteUrl = 'https://ali-aslani-dev.vercel.app'
+
 const pageSEO = computed(() => ({
   title: isWriting ? page?.title : page?.title || seo.title,
   description: isWriting ? page?.description : page?.description || seo.description,
+  url: `${siteUrl}${route.fullPath}`,
 }))
 
 const getTitleTemplate = (title: string | undefined) => {
@@ -32,7 +35,7 @@ useSeoMeta({
   ogTitle: pageSEO.value.title,
   ogDescription: pageSEO.value.description,
   ogType: isWriting ? 'article' : 'website',
-  ogUrl: seo.url,
+  ogUrl: pageSEO.value.url,
   author: profile.name,
   title: pageSEO.value.title,
   description: pageSEO.value.description,
@@ -50,10 +53,18 @@ useHead({
     { name: 'robots', content: 'index, follow' },
     { name: 'color-scheme', content: 'light dark' },
   ],
-  link,
+  link: [
+    ...link,
+    { rel: 'canonical', href: pageSEO.value.url }
+  ],
 })
 
-defineOgImage({ url: 'https://canvas.hrcd.fr/og.png', width: 1200, height: 630, alt: 'Home image' })
+defineOgImage({
+  url: `${siteUrl}/og.png`,
+  width: 1200,
+  height: 630,
+  alt: 'Home image'
+})
 </script>
 
 <template>
