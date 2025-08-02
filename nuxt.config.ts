@@ -8,7 +8,16 @@ export default defineNuxtConfig({
     "@nuxt/image",
     "@nuxt/scripts",
   ],
-
+  app: {
+    head: {
+      meta: [
+        {
+          name: "google-site-verification",
+          content: "2BuTHfopV8ybp0zU8UE1xRrYpeoBN4XusMoRn6ZXSNI",
+        },
+      ],
+    },
+  },
 
   imports: {
     presets: [
