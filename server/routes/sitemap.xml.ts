@@ -9,7 +9,6 @@ export default defineEventHandler(async (event) => {
 
   const sitemap = new SitemapStream({ hostname: 'https://ali-aslani-dev.vercel.app' })
 
-
   // Add content pages
   const locales = ["fa", "en"];
 
