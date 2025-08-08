@@ -1,0 +1,15 @@
+
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - gh-pages
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: عملیات /listfiles
+        run: echo "اجرای عملیات /listfiles روی برنچ gh-pages"
